@@ -6,3 +6,8 @@ analyze the data set of world championship chess games using PySpark
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/abhinit21/Data-Analysis-PySpark/blob/main/Assignment%20PySpark.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<embed
+    width="450px" height="450px"
+    src="https://rawgithubusercontent.com/abhinit21/Data-Analysis-PySpark/blob/main/Assignment%20PySpark.pdf" 
+/>
