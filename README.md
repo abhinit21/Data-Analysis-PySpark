@@ -9,5 +9,5 @@ analyze the data set of world championship chess games using PySpark
 
 <embed
     width="450px" height="450px"
-    src="https://rawgithubusercontent.com/abhinit21/Data-Analysis-PySpark/blob/main/Assignment%20PySpark.pdf" 
+    src="https://raw.githubusercontent.com/abhinit21/Data-Analysis-PySpark/blob/main/Assignment%20PySpark.pdf" 
 />
