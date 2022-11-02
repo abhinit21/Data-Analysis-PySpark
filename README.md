@@ -7,3 +7,7 @@ Below PDF is what the project is about :
 </a>
 
 <a href="https://raw.githubusercontent.com/abhinit21/Data-Analysis-PySpark/blob/main/Assignment%20PySpark.pdf">Download PDF</a>
+
+### Incomplete :
+
+Queries from 10 - 14
